@@ -423,8 +423,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="245" column="49" lean-forward="true" selection-start-line="245" selection-start-column="49" selection-end-line="245" selection-end-column="49" />
+            <state relative-caret-position="347">
+              <caret line="247" column="37" lean-forward="true" selection-start-line="247" selection-start-column="37" selection-end-line="247" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -637,16 +637,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580867335565</updated>
-      <workItem from="1580867338325" duration="10898000" />
+      <workItem from="1580867338325" duration="11730000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10898000" />
+    <option name="totallyTimeSpent" value="11730000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1873" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -685,6 +684,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="版本1" />
+    <option name="LAST_COMMIT_MESSAGE" value="版本1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/webapp/stulist.jsp">
@@ -834,8 +837,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="245" column="49" lean-forward="true" selection-start-line="245" selection-start-column="49" selection-end-line="245" selection-end-column="49" />
+        <state relative-caret-position="347">
+          <caret line="247" column="37" lean-forward="true" selection-start-line="247" selection-start-column="37" selection-end-line="247" selection-end-column="37" />
         </state>
       </provider>
     </entry>
